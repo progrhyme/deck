@@ -9,7 +9,7 @@
   <!-- Sample loading styles -->
   <style>
     body {
-      margin: 0;
+      margin: 5;
     }
 
     .loading-placeholder {
